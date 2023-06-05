@@ -1,4 +1,3 @@
-#  Vagrant
+# Vagrant Project
 
-Ubuntu VM project.
-
+This is a repo for my vagrant project.
